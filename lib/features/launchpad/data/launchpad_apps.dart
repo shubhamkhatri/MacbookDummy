@@ -1,0 +1,16 @@
+enum LaunchpadApps{
+  finder,
+  aboutMe,
+  safari,
+  messages,
+  maps,
+  spotify,
+  terminal,
+  vsCode,
+  photos,
+  contacts,
+  calendar,
+  notes,
+  feedback,
+  systemPreferences,
+}
