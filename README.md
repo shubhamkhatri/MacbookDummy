@@ -8,7 +8,6 @@ Shubham's MacBook Pro is a captivating portfolio website, crafted as a web simul
 
 THIS IS A DUMMY PROJECT FOR ARCHITECTURE AND FEATURE VIEW. I HAVE NOT ADDED THE CODE DUE TO COPYRIGHT POLICY.
 THIS REPO CONTAINS ONLY STRUCTURE OF THE PROJECT.
-<font color="yellow">This text will be in yellow color.</font>
 
 ## 🔰 Features
 
