@@ -1,6 +1,6 @@
 # Shubham's Macbook Pro - Flutter Web Portfolio
 
-![Shubham's Macbook](https://drive.google.com/file/d/1cF1BPXXd_jndWELmfBfAc0VTqfqUnz4o/view?usp=sharing)
+![macClone](https://github.com/shubhamkhatri/MacbookDummy/assets/45428762/56f0f8c2-966e-4067-ba38-468c7583bf49)
 
 Shubham's MacBook Pro is a captivating portfolio website, crafted as a web simulation of macOS Big Sur using Flutter web. The project aims to provide a unique glimpse into my personal MacBook Pro, showcasing my skills, projects, and achievements.
 
