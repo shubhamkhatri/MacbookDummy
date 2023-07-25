@@ -12,9 +12,14 @@ Shubham's MacBook Pro is a captivating portfolio website, crafted as a web simul
 
 - Flutter Web Power: Demonstrates the potential and capabilities of [Flutter Web](https://flutter.dev/web), showcasing its versatility in creating web-based applications.
 
+# ⚠️ NOTE:
+
+THIS IS A DUMMY PROJECT FOR ARCHITECTURE AND FEATURE VIEW. I HAVE NOT ADDED THE CODE DUE TO COPYRIGHT POLICY.
+THIS REPO CONTAINS ONLY STRUCTURE OF THE PROJECT.
+
 ## 🖥️ Live Demo
 
-[Explore Shubham's Macbook](https://bit.ly/shubham-mac)
+[Explore Shubham's Macbook](https://macbook-d0f15.web.app/)
 
 ## Technologies Used
 
@@ -27,7 +32,7 @@ Shubham's MacBook Pro is a captivating portfolio website, crafted as a web simul
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your_username/Shubham-Macbook.git
+git clone https://github.com/shubhamkhatri/MacbookDummy.git
 ```
 
 2. Navigate to the project folder:
