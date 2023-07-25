@@ -1,27 +1,46 @@
+# Shubham's Macbook Pro - Flutter Web Portfolio
 
-# Shubham's MacBook Pro
+![Shubham's Macbook](https://drive.google.com/file/d/1cF1BPXXd_jndWELmfBfAc0VTqfqUnz4o/view?usp=sharing)
 
-Shubham’s MacBook Pro is a portfolio website created as a web Simulation of macOS Big Sur using Flutter web. The idea is to provide a glimpse at my personal MacBook Pro. The project shows the power of Flutter Web in action.
+Shubham's MacBook Pro is a captivating portfolio website, crafted as a web simulation of macOS Big Sur using Flutter web. The project aims to provide a unique glimpse into my personal MacBook Pro, showcasing my skills, projects, and achievements.
 
-The project started as a minimal project and later took it shape into this.
+## 🔰 Features
 
+- Stunning Web Simulation: The website emulates the sleek design and user interface of macOS Big Sur, creating an immersive experience for visitors.
 
-<br/>
+- Showcase Your Portfolio: Highlight your projects, accomplishments, and technical expertise with an elegant and visually appealing presentation.
 
-## 🖥️ Demo
+- Flutter Web Power: Demonstrates the potential and capabilities of [Flutter Web](https://flutter.dev/web), showcasing its versatility in creating web-based applications.
 
-Go here>>>> [View Project](https://)
+## 🖥️ Live Demo
 
-<br/>
+[Explore Shubham's Macbook](https://bit.ly/shubham-mac)
 
-## 🚀 Deployment
+## Technologies Used
 
-To debug this project run
+- Flutter: The powerful and versatile UI framework used to build the web simulation.
+
+- Flutter Web: Enables the smooth and responsive experience of the portfolio on various devices.
+
+## 🚀 How to Run Locally
+
+1. Clone the repository:
+
+```bash
+git clone https://github.com/your_username/Shubham-Macbook.git
+```
+
+2. Navigate to the project folder:
+
+```bash
+cd Shubham-Macbook
+```
+
+3. Run the app:
 
 ```bash
   flutter run -d chrome --web-renderer canvaskit
 ```
-<br/>
 
 ## 🔰 To-Do
 
@@ -29,15 +48,10 @@ To debug this project run
 - [  ] To Create: File menu
 - [  ] Add more apps
 
-<br/>
 
+## 👩🏻‍💻 Contributions
 
-## 👩🏻‍💻 Contributing
-
-Contributions are always welcome!
-
-
-<br />
+Contributions are welcome! If you have any ideas or suggestions to enhance Shubham's Macbook, feel free to [open an issue]([url_to_issues](https://github.com/shubhamkhatri/MacbookDummy/issues)) or [submit a pull request]([url_to_pull_requests](https://github.com/shubhamkhatri/MacbookDummy/pulls)).
 
 ## 🔐 License
 
@@ -63,3 +77,8 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
+## 🙌🏻 Acknowledgements
+
+Special thanks to Flutter and the Flutter community for their amazing support and contributions to the development of this project.
+
+Thank you for checking out Shubham's Macbook. I hope you enjoy exploring my portfolio and witnessing the power of Flutter Web in action. For any inquiries or collaborations, feel free to reach out via [shubhamkhatri484@gmail.com](mailto:shubhamkhatri484@gmail.com). Happy browsing!
